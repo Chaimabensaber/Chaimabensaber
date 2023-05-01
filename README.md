@@ -1,13 +1,13 @@
-### Hi I'm ChaÏma 👋🏻🌙
+# Hi I'm ChaÏma 👋🏻🌙
 
-# 💫 About Me:
+## 💫 About Me:
 I am a passionate student of web development<br>
 Versatile and curious, I give myself the means to explore different horizons and acquire various skills through various projects.
 <br><br>
 
 ## 💻 Tech Stack:
 ### Frontend  
-<div align="center">  
+<div align="left">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
@@ -18,7 +18,7 @@ Versatile and curious, I give myself the means to explore different horizons and
 </td><td valign="top" width="45%">
 
 ### Backend  
-<div align="center">  
+<div align="left">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 </div>
