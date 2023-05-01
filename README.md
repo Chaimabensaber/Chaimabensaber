@@ -30,5 +30,7 @@ Versatile and curious, I give myself the means to explore different horizons and
  ## 🔎 Connect with me :
 - [🌐 Portfolio](https://chaimabensaber.fr/)
 - [✉️ Mail](mailto:Chaimabensaber92@gmail.com
+<br><br>
+<br><br>
 
 ---
