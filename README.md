@@ -32,8 +32,3 @@ Versatile and curious, I give myself the means to explore different horizons and
 - [✉️ Mail](mailto:Chaimabensaber92@gmail.com
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Chaimabensaber&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
