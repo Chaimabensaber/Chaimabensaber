@@ -1,4 +1,4 @@
-# Hi I'm ChaÏma 👋🏻🌙
+# Hi I'm Chaïma 👋🏻🌙
 
 ## 💫 About Me:
 I am a passionate student of web development<br>
